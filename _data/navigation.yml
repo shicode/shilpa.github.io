@@ -1,6 +1,10 @@
 main:
   - title: "Resume"
     url: /assets/docs/shilpa-suresh.pdf
+  - title: "Projects"
+    url: /projects/
+  - title: "News"
+    url: /news/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
