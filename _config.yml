@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Shilpa Suresh"
-  avatar : "/assets/images/bio-photo.PNG"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "NLP, ML, and other Obsessions"
   links:
     - label: "Email"
