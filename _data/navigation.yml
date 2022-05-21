@@ -3,11 +3,12 @@ main:
     url: /assets/docs/shilpa-suresh.pdf
   - title: "Projects"
     url: /portfolio/
+    children: 
+      - title: "Projects"
+      url: /portfolio/projects/
   - title: "News"
     url: /news/
   - title: "Blog"
     url: /posts/
   - title: "About"
     url: /about/
-  - title: "Test"
-    url: /test/
