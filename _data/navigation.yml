@@ -2,7 +2,7 @@ main:
   - title: "Resume"
     url: /assets/docs/shilpa-suresh.pdf
   - title: "Projects"
-    url: /portfolio/projects/
+    url: /portfolio/
   - title: "News"
     url: /news/
   - title: "Blog"
